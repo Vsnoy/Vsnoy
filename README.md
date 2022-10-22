@@ -22,3 +22,7 @@
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vsnoy&theme=react-dark)
 
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there;I'm+Trauma&color=fff) -->
+
+![Github Snake Light](https://raw.githubusercontent.com/Vsnoy/Vsnoy/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Github Snake Dark](https://raw.githubusercontent.com/Vsnoy/Vsnoy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
