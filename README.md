@@ -20,3 +20,5 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vsnoy&layout=compact) -->
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vsnoy&theme=react-dark)
+
+<!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there;I'm+Trauma&color=fff) -->
